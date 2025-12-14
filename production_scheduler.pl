@@ -26,8 +26,8 @@ product(p3, wire_bundle, wire, 150).
 production_step(p1, 1, m1, 24).
 production_step(p1, 2, m2, 20).
 production_step(p1, 3, m3, 16).
-production_step(p1, 3, m4, 16).
-production_step(p1, 3, m5, 16).
+production_step(p1, 4, m4, 16).
+production_step(p1, 5, m5, 16).
 
 production_step(p2, 1, m1, 18).
 production_step(p2, 2, m2, 22).
