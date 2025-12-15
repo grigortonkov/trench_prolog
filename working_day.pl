@@ -1,4 +1,5 @@
-r :- write('Hello, World!'), nl.
+r:- write('Production Scheduler Ready.'), nl.
+r1:- write('Hello, World!'), nl.
 
 working_day(date(2025, 12, 15)).
 working_day(date(2025, 12, 16)).

@@ -403,3 +403,4 @@ print_order_summary([OrderID|Rest]) :-
 %    ?- schedule_new_order(p1, 2, date(2026, 1, 5), 1).
 %    ?- schedule_new_order(p2, 1, date(2026, 1, 8), 2).
 %    ?- schedule_new_order(p3, 3, date(2026, 1, 10), 3).
+
