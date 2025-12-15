@@ -1,0 +1,1 @@
+..\bin\swipl.exe production_scheduler.pl < production_scheduler_test.pl
